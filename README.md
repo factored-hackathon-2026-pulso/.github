@@ -1,5 +1,5 @@
 # .github
 
-Repositorio especial de la organización. Su contenido se muestra en la página de la organización en GitHub.
+Special repository of the organization. Its contents are shown on the organization's page on GitHub.
 
-- [`profile/README.md`](profile/README.md): el README que aparece en el perfil de la organización.
+- [`profile/README.md`](profile/README.md): the README displayed on the organization profile.
