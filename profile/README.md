@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.svg" alt="Pulso logo" width="120"></p>
+
 # Pulso
 
 An AI-powered customer support platform for handling **LATAM Bank transaction disputes**, built by our team for the **Factored AI & Data Hackathon 2026**.
